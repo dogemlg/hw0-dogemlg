@@ -1,4 +1,4 @@
 # hw0-dogemlg
 
 Geia sas!
-![o gandalf](https://static.wikia.nocookie.net/lotr/images/8/8d/Gandalf-2.jpg/revision/latest)
+![o gandalf](https://github.com/dogemlg/hw0-dogemlg/blob/main/gitimages/gandalf.png)
